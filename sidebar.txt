@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ola:home|Door43 (ola)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ola|d43-ola repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ola/archive/master.zip|d43-ola.zip]]
+
+**Recent Changes**
+{{changes>ns = ola}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ola|Ethnologue data]]
+
